@@ -1,0 +1,2 @@
+C:\Users\а\source\repos\person_generator\person_generator\bin\Release\net5.0-windows\publish\person_generator.pdb
+C:\Users\а\source\repos\person_generator\person_generator\bin\Release\net5.0-windows\publish\person_generator.exe
